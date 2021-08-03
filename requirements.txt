@@ -1,0 +1,7 @@
+pandas
+pandas-datareader
+numpy
+matplotlib
+datetime
+scikit-learn
+tensorflow
